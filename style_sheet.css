@@ -1,6 +1,7 @@
   body {
     margin: 0;
     padding: 0;
+    background-color: #EFD6AC;
   }
   
   .navbar {
@@ -27,11 +28,11 @@
   }
 
   li a:hover {
-    background-color: #111;
+    background-color: #121619;
   }
 
   .active {
-    background-color: rgb(135, 5, 228);
+    background-color: #09814A;
   }
 
   .logo {
