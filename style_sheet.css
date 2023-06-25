@@ -1,4 +1,4 @@
-body {
+  body {
     margin: 0;
     padding: 0;
   }
@@ -31,10 +31,10 @@ body {
   }
 
   .active {
-    background-color: rgb(16, 198, 0);
+    background-color: rgb(135, 5, 228);
   }
 
   .logo {
     float: left;
-    padding: 14px;
+    padding: 0px;
   }
