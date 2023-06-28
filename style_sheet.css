@@ -53,6 +53,13 @@ body {
   margin-bottom: 25px;
 }
 
+.instructions-page-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
 .button {
   color: #ffffff;
   background-color: #c81919;
