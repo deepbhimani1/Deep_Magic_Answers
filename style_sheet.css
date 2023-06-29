@@ -188,3 +188,24 @@ label{
   margin-bottom: 10px;
   margin-left: 13%;
 }
+
+.question-answer-container{
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 90px;
+}
+
+.ask-button {
+  background-color: #dd0000;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.ask-button:hover {
+  background-color: #ff4747;
+}
